@@ -1,0 +1,14 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Jump_Deyimleri_2\Döngüler_Jump_Deyimleri_2\bin\Debug\Döngüler_Jump_Deyimleri_2.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Jump_Deyimleri_2\Döngüler_Jump_Deyimleri_2\bin\Debug\Döngüler_Jump_Deyimleri_2.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Jump_Deyimleri_2\Döngüler_Jump_Deyimleri_2\bin\Debug\Döngüler_Jump_Deyimleri_2.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Jump_Deyimleri_2\Döngüler_Jump_Deyimleri_2\obj\Debug\Döngüler_Jump_Deyimleri_2.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Jump_Deyimleri_2\Döngüler_Jump_Deyimleri_2\obj\Debug\Döngüler_Jump_Deyimleri_2.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Jump_Deyimleri_2\Döngüler_Jump_Deyimleri_2\obj\Debug\Döngüler_Jump_Deyimleri_2.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Jump_Deyimleri_2\Döngüler_Jump_Deyimleri_2\obj\Debug\Döngüler_Jump_Deyimleri_2.pdb
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Döngüler_Jump_Deyimleri_2\Döngüler_Jump_Deyimleri_2\bin\Debug\Döngüler_Jump_Deyimleri_2.exe.config
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Döngüler_Jump_Deyimleri_2\Döngüler_Jump_Deyimleri_2\bin\Debug\Döngüler_Jump_Deyimleri_2.exe
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Döngüler_Jump_Deyimleri_2\Döngüler_Jump_Deyimleri_2\bin\Debug\Döngüler_Jump_Deyimleri_2.pdb
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Döngüler_Jump_Deyimleri_2\Döngüler_Jump_Deyimleri_2\obj\Debug\Döngüler_Jump_Deyimleri_2.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Döngüler_Jump_Deyimleri_2\Döngüler_Jump_Deyimleri_2\obj\Debug\Döngüler_Jump_Deyimleri_2.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Döngüler_Jump_Deyimleri_2\Döngüler_Jump_Deyimleri_2\obj\Debug\Döngüler_Jump_Deyimleri_2.exe
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Döngüler_Jump_Deyimleri_2\Döngüler_Jump_Deyimleri_2\obj\Debug\Döngüler_Jump_Deyimleri_2.pdb
